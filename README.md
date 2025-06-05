@@ -31,7 +31,7 @@ Review all browser extensions for suspicious or unused ones, inspect permissions
   - installed.md  
   - removed.md  
   - permission-check.md  
-  - images/installed.png
+  - installed.png
 
 ---
 
