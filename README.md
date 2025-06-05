@@ -1,4 +1,4 @@
-#Browser Extension Security
+# Browser Extension Security
 
 ## Objective:
 
