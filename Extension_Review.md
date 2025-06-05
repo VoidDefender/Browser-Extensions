@@ -13,5 +13,3 @@ Review Date: June 5, 2025
 4. Tab Stash – Bookmark grouping utility.
 
 All were kept after verifying their permissions and behavior.
-
----
