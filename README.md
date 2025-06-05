@@ -40,5 +40,3 @@ Review all browser extensions for suspicious or unused ones, inspect permissions
 - Understood risks from over-permissioned or malicious extensions.
 - Learned how to audit, evaluate, and remove browser extensions safely.
 - Gained awareness of browser-based attack surfaces.
-
----
