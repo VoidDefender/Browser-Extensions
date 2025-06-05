@@ -13,4 +13,6 @@ Platform: Kali Linux
 3. Remove unnecessary or suspicious extensions.
 4. Document findings and screenshot results.
 
+---
+
    *BY: Sumit Singh Rawat*
